@@ -2,10 +2,10 @@ try{
 
     console.log("My name is Adeel Muhammad");
 
-    jjh;khkjhjkhjkhklhjk;
+    
 }
 
-catch{
+catch(err){
 
-    console.log("Something went wrong");
+    console.log(err);
 }
